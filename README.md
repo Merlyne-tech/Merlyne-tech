@@ -1,5 +1,6 @@
 Hi, I am @Merlyne-tech
-/t I’m interested in coding, painting, gaming, sport
+
+I’m interested in coding, painting, gaming, sport
 I’m currently learning Java
 Pronouns: she/her
 
